@@ -1,3 +1,4 @@
+# code 2:star marker
 import matplotlib.pyplot as plt
 import numpy as np
 
