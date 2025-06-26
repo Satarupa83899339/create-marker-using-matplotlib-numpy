@@ -3,5 +3,5 @@
 
 # code 2: star marker
 ![Screenshot 2025-06-26 174140](https://github.com/user-attachments/assets/3cd17c3d-0779-4067-a31f-8f1f3b0f91c0)
-![Screenshot 2025-06-26 174140](https://github.com/user-attachments/assets/3cd17c3d-0779-4067-a31f-8f1f3b0f91c0)
+
 
